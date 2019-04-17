@@ -3,6 +3,7 @@ sfdsfs fdfsfdds
 
 
 fsdfasffdfsfdsfsfs
+<<<<<<< HEAD
 =======
 fdsfs fdfsfds
 顶顶顶
@@ -12,3 +13,7 @@ chengle
 ：再试试
 行了
 >>>>>>> dev
+=======
+
+要是出西安了就法大师傅大师傅
+>>>>>>> tom
